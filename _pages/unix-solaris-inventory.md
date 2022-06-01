@@ -1,6 +1,5 @@
 ---
 title: "Unix / Oracle Solaris"
-classes: wide
 permalink: /unix-solaris-inventory/
 header:
   overlay_filter: 0.5
