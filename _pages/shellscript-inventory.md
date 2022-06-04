@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/shellscript-inventory.avif
   og_image: /assets/images/shellscript-inventory-120x120.avif
   teaser: /assets/images/shellscript-inventory-200x100.avif
-  image_description: ""
+  image_description: "Diversas conchas do mar colocadas lado a lado."
   caption: "Imagem: [**George Girnas**](https://unsplash.com/photos/6RTn6HZD-RI)"
   #actions:
   #  - label: "Leia mais"

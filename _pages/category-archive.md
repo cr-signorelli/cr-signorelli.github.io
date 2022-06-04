@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/category-archive.avif
   og_image: /assets/images/category-archive-120x120.avif
   teaser: /assets/images/category-archive-200x100.avif
-  image_description: "Caixas de arquivos em prateleiras"
+  image_description: "Caixas de arquivos em prateleiras."
   caption: "Imagem: [**Nana Smirnova**](https://unsplash.com/photos/IEiAmhXehwE)"
   #actions:
   #  - label: "Leia mais"

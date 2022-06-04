@@ -3,11 +3,12 @@ title: "Por onde começar?"
 permalink: /por-onde-comecar/
 classes: wide
 header:
-  overlay_image: https://source.unsplash.com/bF2vsubyHcQ/1920x300
-  og_image: https://source.unsplash.com/bF2vsubyHcQ/120x120
-  teaser: https://source.unsplash.com/bF2vsubyHcQ/200x100
+  overlay_filter: 0.5
+  overlay_image: /assets/images/por-onde-comecar.avif
+  og_image: /assets/images/por-onde-comecar-120x120.avif
+  teaser: /assets/images/por-onde-comecar-200x100.avif
   image_description: "Dois lápis, folha de caderno e tesoura sobre um fundo amarelo."
-  caption: "Imagem: [**Joanna Kosinska**](https://unsplash.com/photos/LAaSoL0LrYs)"
+  caption: "Imagem: [**Joanna Kosinska**](https://unsplash.com/photos/bF2vsubyHcQ)"
   #actions:
   #  - label: "Leia mais"
   #    url: "https://cr-signorelli.github.io/"
