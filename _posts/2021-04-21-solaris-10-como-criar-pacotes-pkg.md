@@ -3,9 +3,10 @@ title: "Solaris 10 - Como criar pacotes .pkg"
 permalink: /solaris-10-como-criar-pacotes-pkg/
 classes: wide
 header:
-  overlay_image: https://source.unsplash.com/u8Jn2rzYIps/1920x300
-  og_image: https://source.unsplash.com/u8Jn2rzYIps/120x120
-  teaser: https://source.unsplash.com/u8Jn2rzYIps/200x100
+  overlay_filter: 0.5
+  overlay_image: /assets/images/solaris-10-como-criar-pacotes-pkg.avif
+  og_image: /assets/images/solaris-10-como-criar-pacotes-pkg-120x120.avif
+  teaser: /assets/images/solaris-10-como-criar-pacotes-pkg-200x100.avif
   image_description: "Fundo abstrato com diferentes tons de roxo."
   caption: "Imagem: [**Fakurian Arts**](https://unsplash.com/photos/u8Jn2rzYIps)"
   #actions:
