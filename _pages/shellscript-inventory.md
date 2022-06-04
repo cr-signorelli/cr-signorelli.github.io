@@ -4,10 +4,10 @@ layout: posts
 permalink: /shellscript-inventory/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/6RTn6HZD-RI/1920x300
-  og_image: https://source.unsplash.com/6RTn6HZD-RI/120x120
-  teaser: https://source.unsplash.com/6RTn6HZD-RI/200x100
-  image_description: "Uma concha na areia da praia"
+  overlay_image: /assets/images/shellscript-inventory.avif
+  og_image: /assets/images/shellscript-inventory-120x120.avif
+  teaser: /assets/images/shellscript-inventory-200x100.avif
+  image_description: ""
   caption: "Imagem: [**George Girnas**](https://unsplash.com/photos/6RTn6HZD-RI)"
   #actions:
   #  - label: "Leia mais"

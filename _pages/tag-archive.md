@@ -5,10 +5,10 @@ layout: tags
 author_profile: true
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/B9N22h2s0to/1920x300
-  og_image: https://source.unsplash.com/B9N22h2s0to/120x120
-  teaser: https://source.unsplash.com/B9N22h2s0to/200x100
-  image_description: "Uma etiqueta em um fundo branco."
+  overlay_image: /assets/images/tag-archive.avif
+  og_image: /assets/images/tag-archive-120x120.avif
+  teaser: /assets/images/tag-archive-200x100.avif
+  image_description: ""
   caption: "Imagem: [**Brett Jordan**](https://unsplash.com/photos/B9N22h2s0to)"
   #actions:
   #  - label: "Leia mais"

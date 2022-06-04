@@ -3,9 +3,9 @@ title: "Unix / Oracle Solaris"
 permalink: /unix-solaris-inventory/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/tIgJR__pjZw/1920x300
-  og_image: https://source.unsplash.com/tIgJR__pjZw/120x120
-  teaser: https://source.unsplash.com/tIgJR__pjZw/200x100
+  overlay_image: /assets/images/unix-solaris-inventory.avif
+  og_image: /assets/images/unix-solaris-inventory-120x120.avif
+  teaser: /assets/images/unix-solaris-inventory-200x100.avif
   image_description: "Imagem abstrata avermelhada."
   caption: "Imagem: [**Jon Moore**](https://unsplash.com/photos/tIgJR__pjZw)"
   #actions:
