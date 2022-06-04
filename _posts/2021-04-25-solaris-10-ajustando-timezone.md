@@ -3,9 +3,10 @@ title: "Solaris 10 - Ajustando TIMEZONE"
 classes: wide
 permalink: /solaris-10-ajustando-timezone/
 header:
-  overlay_image: https://source.unsplash.com/CcIIao_-Eow/1920x300
-  og_image: https://source.unsplash.com/CcIIao_-Eow/120x120
-  teaser: https://source.unsplash.com/CcIIao_-Eow/200x100
+  overlay_filter: 0.0
+  overlay_image: /assets/images/solaris-10-ajustando-timezone.avif
+  og_image: /assets/images/solaris-10-ajustando-timezone-120x120.avif
+  teaser: /assets/images/solaris-10-ajustando-timezone-200x100.avif
   image_description: "Foto preta e branca de um relógio de corda."
   caption: "Imagem: [**Amanda Jones**](https://unsplash.com/photos/CcIIao_-Eow)"
   #actions:

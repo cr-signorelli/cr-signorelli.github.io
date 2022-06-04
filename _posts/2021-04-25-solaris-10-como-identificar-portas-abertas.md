@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-como-identificar-portas-abertas/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/bBavss4ZQcA/1920x300
-  og_image: https://source.unsplash.com/bBavss4ZQcA/120x120
-  teaser: https://source.unsplash.com/bBavss4ZQcA/200x100
+  overlay_image: /assets/images/teste.avif
+  og_image: /assets/images/teste-120x120.avif
+  teaser: /assets/images/teste-200x100.avif
   image_description: "Grade vermelha com cadeados presos."
   caption: "Imagem: [**Jon Moore**](https://unsplash.com/photos/bBavss4ZQcA)"
   #actions:
