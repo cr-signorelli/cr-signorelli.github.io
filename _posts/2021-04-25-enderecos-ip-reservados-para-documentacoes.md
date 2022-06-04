@@ -3,10 +3,11 @@ title: "Endereços IP reservados para documentações"
 classes: wide
 permalink: /enderecos-ip-reservados-para-documentacoes/
 header:
-  overlay_image: https://source.unsplash.com/ISG-rUel0Uw/1920x300
-  og_image: https://source.unsplash.com/ISG-rUel0Uw/120x120
-  teaser: https://source.unsplash.com/ISG-rUel0Uw/200x100
-  image_description: "Painel com alguns cabos de rede fibras conectados."
+  overlay_filter: 0.5
+  overlay_image: /assets/images/enderecos-ip-reservados-para-documentacoes.avif
+  og_image: /assets/images/enderecos-ip-reservados-para-documentacoes-120x120.avif
+  teaser: /assets/images/enderecos-ip-reservados-para-documentacoes-200x100.avif
+  image_description: "Painel com alguns cabos de rede e fibras conectados."
   caption: "Imagem: [**Thomas Jensen**](https://unsplash.com/photos/ISG-rUel0Uw)"
   #actions:
   #  - label: "Leia mais"
