@@ -4,11 +4,11 @@ classes: wide
 permalink: /solaris-10-removendo-e-instalando-cliente-ssh/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/M5tzZtFCOfs/1920x300
-  og_image: https://source.unsplash.com/M5tzZtFCOfs/120x120
-  teaser: https://source.unsplash.com/M5tzZtFCOfs/200x100
-  image_description: "Transistores utilizados na fabricação de processadores."
-  caption: "Imagem: [**Taylor Vick**](https://unsplash.com/photos/M5tzZtFCOfs)"
+  overlay_image: /assets/images/solaris-10-removendo-e-instalando-cliente-ssh.avif
+  og_image: /assets/images/solaris-10-removendo-e-instalando-cliente-ssh-120x120.avif
+  teaser: /assets/images/solaris-10-removendo-e-instalando-cliente-ssh-200x100.avif
+  image_description: "Racks de datacenters lado a lado com equipamentos ligados dentro."
+  caption: "Imagem: [**Taylor Vick**](https://unsplash.com/photos/M5tzZtFCOfs)"  
   #actions:
   #  - label: "Leia mais"
   #    url: "https://cr-signorelli.github.io/"
