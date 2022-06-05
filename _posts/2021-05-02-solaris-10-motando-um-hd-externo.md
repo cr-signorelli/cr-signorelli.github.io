@@ -3,9 +3,10 @@ title: "Solaris 10 - Montando HD externo"
 classes: wide
 permalink: /solaris-10-motando-um-hd-externo/
 header:
-  overlay_image: https://source.unsplash.com/sIX4eDtak7k/1920x300
-  og_image: https://source.unsplash.com/sIX4eDtak7k/120x120
-  teaser: https://source.unsplash.com/sIX4eDtak7k/200x100
+  overlay_filter: 0.0
+  overlay_image: /assets/images/solaris-10-motando-um-hd-externo.avif
+  og_image: /assets/images/solaris-10-motando-um-hd-externo-120x120.avif
+  teaser: /assets/images/solaris-10-motando-um-hd-externo-200x100.avif
   image_description: "Parte interna de uma HD de computador."
   caption: "Imagem: [**Sajad Nori**](https://unsplash.com/photos/sIX4eDtak7k)"
   #actions:
