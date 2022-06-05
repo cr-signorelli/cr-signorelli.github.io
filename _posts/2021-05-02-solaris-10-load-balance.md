@@ -3,9 +3,10 @@ title: "Solaris 10 - Load Balance"
 classes: wide
 permalink: /solaris-10-load-balance/
 header:
-  overlay_image: https://source.unsplash.com/EJe6LqEjHpA/1920x300
-  og_image: https://source.unsplash.com/EJe6LqEjHpA/120x120
-  teaser: https://source.unsplash.com/EJe6LqEjHpA/200x100
+  overlay_filter: 0.5
+  overlay_image: /assets/images/solaris-10-load-balance.avif
+  og_image: /assets/images/solaris-10-load-balance-120x120.avif
+  teaser: /assets/images/solaris-10-load-balance-200x100.avif
   image_description: "Cabo de rede"
   caption: "Imagem: [**Sigmund**](https://unsplash.com/photos/EJe6LqEjHpA)"
   #actions:

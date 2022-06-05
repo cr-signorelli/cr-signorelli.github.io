@@ -4,9 +4,9 @@ classes: wide
 permalink: /ilom-configuracao-basica/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/bN5XdU-bap4/1920x300
-  og_image: https://source.unsplash.com/bN5XdU-bap4/120x120
-  teaser: https://source.unsplash.com/bN5XdU-bap4/200x100
+  overlay_image: /assets/images/ilom-configuracao-basica.avif
+  og_image: /assets/images/ilom-configuracao-basica-120x120.avif
+  teaser: /assets/images/ilom-configuracao-basica-200x100.avif
   image_description: "Placa de circuto"
   caption: "Imagem: [**Chris Ried**](https://unsplash.com/photos/bN5XdU-bap4)"
   #actions:

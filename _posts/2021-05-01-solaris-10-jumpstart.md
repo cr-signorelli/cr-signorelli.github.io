@@ -4,11 +4,11 @@ classes: wide
 permalink: /solaris-10-jumpstart/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/1FxMET2U5dU/1920x300
-  og_image: https://source.unsplash.com/1FxMET2U5dU/120x120
-  teaser: https://source.unsplash.com/1FxMET2U5dU/200x100
+  overlay_image: /assets/images/solaris-10-jumpstart.avif
+  og_image: /assets/images/solaris-10-jumpstart-120x120.avif
+  teaser: /assets/images/solaris-10-jumpstart-200x100.avif
   image_description: "Foto da lateral de vidro de um prédio."
-  caption: "Imagem: [**Héctor J. Rivas**](https://source.unsplash.com/1FxMET2U5dU/1920x300)"
+  caption: "Imagem: [**Héctor J. Rivas**](https://unsplash.com/photos/1FxMET2U5dU)"
   #actions:
   #  - label: "Leia mais"
   #    url: "https://cr-signorelli.github.io/"

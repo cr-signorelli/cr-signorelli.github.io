@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-configuracoes-de-ipv4-e-ipv6/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/wQLAGv4_OYs/1920x300
-  og_image: https://source.unsplash.com/wQLAGv4_OYs/120x120
-  teaser: https://source.unsplash.com/wQLAGv4_OYs/200x100
+  overlay_image: /assets/images/solaris-10-configuracoes-de-ipv4-e-ipv6.avif
+  og_image: /assets/images/solaris-10-configuracoes-de-ipv4-e-ipv6-120x120.avif
+  teaser: /assets/images/solaris-10-configuracoes-de-ipv4-e-ipv6-200x100.avif
   image_description: "Fundo abstrato colorido"
   caption: "Imagem: [**Lucas Benjamin**](https://unsplash.com/photos/wQLAGv4_OYs)"
   #actions:

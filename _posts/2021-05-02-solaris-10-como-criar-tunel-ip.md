@@ -3,9 +3,10 @@ title: "Solaris 10 - Como criar tunel IP"
 classes: wide
 permalink: /solaris-10-como-criar-tunel-ip/
 header:
-  overlay_image: https://source.unsplash.com/fdvTTpkAKkY/1920x300
-  og_image: https://source.unsplash.com/fdvTTpkAKkY/120x120
-  teaser: https://source.unsplash.com/fdvTTpkAKkY/200x100
+  overlay_filter: 0.5
+  overlay_image: /assets/images/solaris-10-como-criar-tunel-ip.avif
+  og_image: /assets/images/solaris-10-como-criar-tunel-ip-120x120.avif
+  teaser: /assets/images/solaris-10-como-criar-tunel-ip-200x100.avif
   image_description: "Foto dentro de um túnel"
   caption: "Imagem: [**bantersnaps**](https://unsplash.com/photos/fdvTTpkAKkY)"
   #actions:

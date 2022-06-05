@@ -3,9 +3,10 @@ title: "Solaris 10 - Boot read fail"
 classes: wide
 permalink: /solaris-10-boot-read-fail/
 header:
-  overlay_image: https://source.unsplash.com/nCgosM9lsTE/1920x300
-  og_image: https://source.unsplash.com/nCgosM9lsTE/120x120
-  teaser: https://source.unsplash.com/nCgosM9lsTE/200x100
+  overlay_filter: 0.5
+  overlay_image: /assets/images/solaris-10-boot-read-fail.avif
+  og_image: /assets/images/solaris-10-boot-read-fail-120x120.avif
+  teaser: /assets/images/solaris-10-boot-read-fail-200x100.avif
   image_description: "Placa de computador com imagem azulada."
   caption: "Imagem: [**卡晨**](https://unsplash.com/photos/nCgosM9lsTE)"
   #actions:
