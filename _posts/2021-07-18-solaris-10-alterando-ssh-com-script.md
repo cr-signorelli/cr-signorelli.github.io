@@ -4,10 +4,10 @@ classes: wide
 permalink: /solaris-10-alterando-ssh-com-script/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/FWoq_ldWlNQ/1920x300
-  og_image: https://source.unsplash.com/FWoq_ldWlNQ/120x120
-  teaser: https://source.unsplash.com/FWoq_ldWlNQ/200x100
-  image_description: "Foto de um prédio espelhado"
+  overlay_image: /assets/images/solaris-10-alterando-ssh-com-script.avif
+  og_image: /assets/images/solaris-10-alterando-ssh-com-script-120x120.avif
+  teaser: /assets/images/solaris-10-alterando-ssh-com-script-200x100.avif
+  image_description: "Tela de computador com várias linhas de código de programação"
   caption: "Imagem: [**Mitchell Luo**](https://unsplash.com/photos/FWoq_ldWlNQ)"
   #actions:
   #  - label: "Leia mais"

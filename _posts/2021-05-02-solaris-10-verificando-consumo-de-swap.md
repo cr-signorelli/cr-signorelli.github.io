@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-verificando-consumo-de-swap/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/nuc3NFB_6po/1920x300
-  og_image: https://source.unsplash.com/nuc3NFB_6po/120x120
-  teaser: https://source.unsplash.com/nuc3NFB_6po/200x100
+  overlay_image: /assets/images/solaris-10-verificando-consumo-de-swap.avif
+  og_image: /assets/images/solaris-10-verificando-consumo-de-swap-120x120.avif
+  teaser: /assets/images/solaris-10-verificando-consumo-de-swap-200x100.avif
   image_description: "Pente de memória para computador."
   caption: "Imagem: [**Possessed Photography**](https://unsplash.com/photos/nuc3NFB_6po)"
   #actions:

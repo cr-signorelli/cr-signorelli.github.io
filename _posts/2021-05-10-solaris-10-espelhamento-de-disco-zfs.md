@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-espelhamento-de-disco-no-zfs/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/hsg538WrP0Y/1920x300
-  og_image: https://source.unsplash.com/hsg538WrP0Y/120x120
-  teaser: https://source.unsplash.com/hsg538WrP0Y/200x100
+  overlay_image: /assets/images/solaris-10-espelhamento-de-disco-no-zfs.avif
+  og_image: /assets/images/solaris-10-espelhamento-de-disco-no-zfs-120x120.avif
+  teaser: /assets/images/solaris-10-espelhamento-de-disco-no-zfs-200x100.avif
   image_description: "Foto de um prédio espelhado"
   caption: "Imagem: [**drmakete lab**](https://unsplash.com/photos/hsg538WrP0Y)"
   #actions:
