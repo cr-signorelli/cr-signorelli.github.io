@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-update-de-firmware/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/jXd2FSvcRr8/1920x300
-  og_image: https://source.unsplash.com/jXd2FSvcRr8/120x120
-  teaser: https://source.unsplash.com/jXd2FSvcRr8/200x100
+  overlay_image: /assets/images/solaris-10-update-de-firmware.avif
+  og_image: /assets/images/solaris-10-update-de-firmware-120x120.avif
+  teaser: /assets/images/solaris-10-update-de-firmware-200x100.avif
   image_description: "Placa de computador."
   caption: "Imagem: [**Umberto**](https://unsplash.com/photos/jXd2FSvcRr8)"
   #actions:

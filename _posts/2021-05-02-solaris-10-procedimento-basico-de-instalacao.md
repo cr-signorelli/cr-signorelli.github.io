@@ -4,9 +4,9 @@ classes: wide
 permalink: /solaris-10-procedimento-basico-de-instalacao/
 header:
   overlay_filter: 0.5
-  overlay_image: https://source.unsplash.com/tL_IIeMc5Xo/1920x300
-  og_image: https://source.unsplash.com/tL_IIeMc5Xo/120x120
-  teaser: https://source.unsplash.com/tL_IIeMc5Xo/200x100
+  overlay_image: /assets/images/solaris-10-procedimento-basico-de-instalacao.avif
+  og_image: /assets/images/solaris-10-procedimento-basico-de-instalacao-120x120.avif
+  teaser: /assets/images/solaris-10-procedimento-basico-de-instalacao-200x100.avif
   image_description: "Fundo azulado abstrato."
   caption: "Imagem: [**Daniele Levis Pelusi**](https://unsplash.com/photos/tL_IIeMc5Xo)"
   #actions:
